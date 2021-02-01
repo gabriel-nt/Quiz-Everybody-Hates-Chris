@@ -33,11 +33,8 @@ const Home: React.FC = () => {
   return (
     <QuizBackground>
       <QuizLogo />
-      <Widget title="Todo Mundo Odeia o Chris">
-        <p>
-          Teste os seus conhecimentos sobre a série de Todo Mundo odeia o Chris
-          e diverta-se criando o seu AluraQuiz
-        </p>
+      <Widget title={db.title}>
+        <p>{db.description}</p>
 
         <form onSubmit={handleFormSubmit}>
           <Input
