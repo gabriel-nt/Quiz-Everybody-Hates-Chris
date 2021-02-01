@@ -65,7 +65,9 @@
     }
   ],
   "external": [
-    "https://1sec-quiz.victoroda.vercel.app/"
+    "https://1sec-quiz.victoroda.vercel.app/",
+    "https://bitter-brewing-quiz.afuscella.vercel.app/",
+    "https://doctor-who-quiz.emanuelpna.vercel.app/"
   ],
   "theme": {
     "colors": {
