@@ -28,8 +28,6 @@
 ### 💻 Projeto
 
 A aplicação é um quiz da série Todo Mundo Odeia o Chris. Projeto desenvolvido durante a semana da Imersão NextJS da Alura. 
-<br>
-Link da aplicação: [Quiz - Todo Mundo Odeia o Chris](https://quiz-everybody-hates-chris.gabriel-nt.vercel.app/)
 
 ### ✅ Resultados
 <img src="https://github.com/gabriel-nt/quiz-everybody-hates-chris/blob/main/assets/home.png" />
