@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gabriel-nt/GoRestaurant/blob/master/src/assets/logo.png" alt="Everybody-Hates-Chris" />
+  <img src="https://github.com/gabriel-nt/quiz-everybody-hates-chris/blob/main/assets/logo.png" alt="Everybody-Hates-Chris" />
 </p>
 <h1 align="center">
     🚀 Todo Mundo Odeia o Chris - Quiz
@@ -26,7 +26,7 @@
 </h3>
 
 ### ✅ Resultados
-<img src="https://github.com/gabriel-nt/Ecoleta/blob/master/web/src/assets/home.png" />
+<img src="https://github.com/gabriel-nt/quiz-everybody-hates-chris/blob/main/assets/home.png" />
 
 ### 📎 Features
 
