@@ -1,0 +1,82 @@
+{
+  "bg": "https://cinema10.com.br/upload/noticias/2019-2/1278fc5e38.jpg",
+  "title": "Todo Mundo Odeia o Chris",
+  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "questions": [
+    {
+      "image": "https://i.gifer.com/2wFz.gif",
+      "title": "Quando foi lançado o primeiro episódio da série?",
+      "description": "Sacomé, né",
+      "answer": 1,
+      "alternatives": [
+        "27/10/2004",
+        "22/09/2005",
+        "13/05/2003",
+        "17/06/2006"
+      ]
+    },
+    {
+      "image": "https://pa1.narvii.com/6242/e3acdaee545a33105296a5df2af1a17267a4a70f_hq.gif",
+      "title": "Quantas temporadas a série teve?",
+      "description": "Cara, ela tá tão na sua!",
+      "answer": 3,
+      "alternatives": [
+        "3",
+        "2",
+        "5",
+        "4"
+      ]
+    },
+    {
+      "image": "https://j.gifs.com/yP80Rw.gif",
+      "title": "Qual o nome do episódio que Chris impede um furto de Malvo?",
+      "description": "Acha que eu estou brincando? Quando estiver no chuveiro, eu vou estar lá...",
+      "answer": 3,
+      "alternatives": [
+        "Todo Mundo Odeia Playboy ",
+        "Todo Mundo Odeia Roubar Brincos",
+        "Todo Mundo Odeia Tattaglia",
+        "Todo Mundo Odeia Roubar Correntes"
+      ]
+    },
+    {
+      "image": "https://pa1.narvii.com/6828/2c33647e7b439724c6cd44573052b7365da795cd_hq.gif",
+      "title": "Complete a frase de Rochelle: 'Vou te bater...'",
+      "description": "Tá com cara de quem tá aprontando",
+      "answer": 0,
+      "alternatives": [
+        "até você ficar branco",
+        "até você ficar roxo",
+        "até amanhâ",
+        "depois de acabar aqui"
+      ]
+    },
+    {
+      "image": "https://i0.wp.com/uploads.disquscdn.com/images/a238ba6ebd5558f3b3ec8c0008512d7eff0456eb8b0b5006c2e0b4009a57deaa.gif?w=750&ssl=1",
+      "title": "Qual os dois empregos de Julius?",
+      "description": "Não preciso disso, meu marido tem dois empregos",
+      "answer": 2,
+      "alternatives": [
+        "Carteiro e motorista de caminhão",
+        "Jornaleiro e motorista de caminhão",
+        "Motorista de Caminhão e entregador de jornais",
+        "Motorista de caminhão e de Táxi"
+      ]
+    }
+  ],
+  "external": [
+    "https://1sec-quiz.victoroda.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#22293b",
+      "secondary": "#151e2d",
+      "mainBg": "#151e2d",
+      "contrastText": "#FFFFFF",
+      "wrong": "#9a2b34",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
+  
