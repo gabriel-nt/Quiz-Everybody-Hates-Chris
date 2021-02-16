@@ -49,7 +49,7 @@ e uma conta na [Vercel](https://vercel.com/) para fazer o deploy da aplicação
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/gabriel-nt/quiz-everybody-hates-chris
+$ git clone https://github.com/gabriel-nt/Quiz-Everybody-Hates-Chris/
 
 # Instale as dependências
 $ yarn
